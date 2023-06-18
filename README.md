@@ -3,7 +3,7 @@ Example code to deploy a simple nginx container into a kind kubernetes cluster u
 
 ## How to run this example
 First you need to create the kubernetes cluster, we are gonna use kind tool to do it.
-Make sure you have kind installed in your computer. You can check how to do it in the link below.
+Make sure you have kind installed in your computer. You can check how to do it in the link below.  
 [Kind website](https://kind.sigs.k8s.io/).
 
 Once you have kind installed, you need to run this command:  
