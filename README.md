@@ -7,7 +7,7 @@ Make sure you have kind installed in your computer. You can check how to do it i
 [Kind website](https://kind.sigs.k8s.io/).
 
 Once you have kind installed, you need to run this command:  
-`kind create cluster --name lab --config kind/kind_cluster.yaml`
+`kind create cluster --name lab --config kind/config.yaml`
 
 This command will take some time to finish, so you can get a coffee :)
 Once you have your coffee and it is done, you need to run this command below.  
